@@ -14,13 +14,13 @@ searching the books by book title, book author, ISBN.</br>
 * Construct the search option for the librarian to find the overdue books and fine details.
 ### Entities:
 * Author </br>
-• Employee </br>
-• Student </br>
-• Media </br>
-• Media_author </br>
-• Condition </br>
-• Checkout </br>
-• Reservation </br>
+* Employee </br>
+* Student </br>
+* Media </br>
+* Media_author </br>
+* Condition </br>
+* Checkout </br>
+* Reservation </br>
 ### ATTRIBUTES:
 #### AUTHOR
 ➢ Author_name </br>
@@ -46,4 +46,29 @@ searching the books by book title, book author, ISBN.</br>
 ➢ Published_Date </br>
 ➢ Publisher </br>
 ➢ Type </br>
-➢ Subject </br>➢ Order_Cost ➢ Initial_condition ) • MEDIA_AUTHOR ➢ Barcode ➢ Authorname ➢ Author_DOB) • CONDITION ➢ Grade ➢ Percentage • CHECK_OUT ➢ Library_card_number ➢ Barcode ➢ Checkoutdate, ➢ Renewed ➢ Amount_Paid ➢ Fee ➢ Tobereturndate ➢ Checkindate ➢ Current_condition) • RESERVATION ➢ Library_card_number ➢ Barcode ➢ Date_requested ➢ Check_out_status ➢ Reshelf_date
+➢ Subject </br>
+➢ Order_Cost </br>
+➢ Initial_condition </br>
+#### MEDIA_AUTHOR 
+➢ Barcode </br>
+➢ Authorname </br>
+➢ Author_DOB</br>
+#### CONDITION 
+➢ Grade </br>
+➢ Percentage </br>
+#### CHECK_OUT 
+➢ Library_card_number </br>
+➢ Barcode </br>
+➢ Checkoutdate </br>
+➢ Renewed </br>
+➢ Amount_Paid </br>
+➢ Fee </br>
+➢ Tobereturndate </br>
+➢ Checkindate </br>
+➢ Current_condition </br>
+#### RESERVATION 
+➢ Library_card_number </br>
+➢ Barcode </br>
+➢ Date_requested </br>
+➢ Check_out_status </br>
+➢ Reshelf_date
