@@ -102,4 +102,8 @@ For the table to be in second normal form the non key attributes of the table sh
 partial dependent on any single element of composite primary key.
 #### Third Normal Form (3NF)
 For the table to be in third normal form the non key attributes shouldn’t have the transitive 
-dependency on the primary key.
+dependency on the primary key.</br>
+
+All the tables are nomalised into the third normal form.
+
+
