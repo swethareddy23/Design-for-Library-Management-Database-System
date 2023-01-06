@@ -75,4 +75,4 @@ searching the books by book title, book author, ISBN.</br>
 
 ## Entity Relationship (ER) Diagram
 
-<img src=https://github.com/swethareddy23/Design-for-Library-Management-Database-System/blob/main/ER%20Diagram.png  width='400' height='250' /></br>
+<img src=https://github.com/swethareddy23/Design-for-Library-Management-Database-System/blob/main/ER%20Diagram.png  width='600' height='450' /></br>
