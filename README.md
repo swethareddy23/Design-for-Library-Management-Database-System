@@ -1,1 +1,1 @@
-# Design-for-Library-Management-Database-System
+# Design for Library Management Database System
