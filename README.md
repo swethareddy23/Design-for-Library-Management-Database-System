@@ -79,4 +79,4 @@ searching the books by book title, book author, ISBN.</br>
 
 ## Relational Model
 
-<img src= https://github.com/swethareddy23/Design-for-Library-Management-Database-System/blob/main/Relational%20Model.png  width='600' height='450' /></br>
+<img src= https://github.com/swethareddy23/Design-for-Library-Management-Database-System/blob/main/Relational%20Model.png  width='400' height='450' /></br>
