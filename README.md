@@ -94,12 +94,12 @@ the relations which frees tables from modification anomalies, i.e. insertion, up
 deletion anomalies.</br>
 Several levels of normalization exist in database design and are called Normal Forms. They 
 are First Normal Form (1NF), Second Normal Form (2NF) and Third Normal form (3NF).</br>
-First Normal Form (1NF)
+#### First Normal Form (1NF)
 First Normal form is concerned with multiple valued attributes. For the table to be in a first 
 normal form it cannot contain multiple values for any attributes.
-Second Normal Form (2NF)
+#### Second Normal Form (2NF)
 For the table to be in second normal form the non key attributes of the table shouldn’t be 
 partial dependent on any single element of composite primary key.
-Third Normal Form (3NF)
+#### Third Normal Form (3NF)
 For the table to be in third normal form the non key attributes shouldn’t have the transitive 
 dependency on the primary key.
